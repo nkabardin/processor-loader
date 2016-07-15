@@ -1,0 +1,25 @@
+{
+  "name": "processor-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nkabardin/processor-loader.git"
+  },
+  "author": "Nikita Kabardin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nkabardin/processor-loader/issues"
+  },
+  "homepage": "https://github.com/nkabardin/processor-loader#readme",
+  "devDependencies": {
+    "eslint": "^3.0.1"
+  },
+  "dependencies": {
+    "loader-utils": "^0.2.15"
+  }
+}
